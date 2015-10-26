@@ -1,8 +1,10 @@
 {
   "name": "ios-app-utils",
-  "description": "Description goes here.",
+  "description": "Utility functions for iOS app files",
   "keywords": [
-    "appium"
+    "appium",
+    "iOS",
+    "bundleId"
   ],
   "version": "0.0.0",
   "author": "appium",
