@@ -1,7 +1,14 @@
 ios-app-utils
 ===================
 
-Work in progress, stay tuned!
+Utility functions for iOS app files.
+
+```
+let app = "path/to/app.app"
+let bundleId = await extractBundleId(app)
+
+console.log(bundleId) // io.appium.TestApp
+```
 
 ## Watch
 

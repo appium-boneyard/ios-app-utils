@@ -1,4 +1,3 @@
-import {default as sample} from './lib/sample';
+import { default as extractBundleId } from './lib/bundleId.js';
 
-export {sample};
-
+export { extractBundleId };
