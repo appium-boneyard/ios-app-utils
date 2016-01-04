@@ -1,3 +1,5 @@
-import { default as extractBundleId } from './lib/bundleId.js';
+import { default as extractBundleId } from './lib/bundleId';
+import { default as extractAppDisplayName } from './lib/appname';
 
-export { extractBundleId };
+
+export { extractBundleId, extractAppDisplayName };
