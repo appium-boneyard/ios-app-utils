@@ -1,23 +1,3 @@
-ios-app-utils
-===================
+# ios-app-utils [Deprecated]
 
-Utility functions for iOS app files.
-
-```
-let app = "path/to/app.app"
-let bundleId = await extractBundleId(app)
-
-console.log(bundleId) // io.appium.TestApp
-```
-
-## Watch
-
-```
-npm run watch
-```
-
-## Test
-
-```
-npm test
-```
+Functionality has been moved into [appium-ios-driver](https://github.com/appium/appium-ios-driver)
